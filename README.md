@@ -1,2 +1,9 @@
 # 3D-CycleGAN-with-Uncertainty
-Code for 3D CycleGAN with Uncertainty Estimations
+PyTorch Code for 3D CycleGAN with Uncertainty Estimations
+
+#### Prerequisites
+
+
+#### How to run
+
+
