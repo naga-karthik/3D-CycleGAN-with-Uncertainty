@@ -6,6 +6,11 @@ Uncertainty estimations through approximate Bayesian inference provide interesti
 This paper presents a proof-of-concept for generalizing the aleatoric and epistemic uncertainties in unsupervised MR-CT synthesis of scoliotic spines. A novel adaptation of the cycle-consistency constraint in CycleGAN is proposed such that the model predicts the aleatoric uncertainty maps in addition to the standard volume-to-volume translation between Magnetic Resonance (MR) and Computed Tomography (CT) data. 
 Ablation experiments were performed to understand uncertainty estimation as an implicit regularizer and a measure of the model's confidence. The aleatoric uncertainty helps in distinguishing between the bone and soft-tissue regions in CT and MR data during translation, while the epistemic uncertainty provides interpretable information to the user for downstream tasks.
 
+
+<p align="center">
+  <img width="600" alt="flowchart_updated" src="https://user-images.githubusercontent.com/53445351/228790080-cfad9d7f-2b12-492d-9b6e-e3ffab49f390.png">
+</p>
+
 ### Structure of the Repository
 
 1. `datasets3D_pl.py` - code for loading the data from the respective folders. 
