@@ -25,6 +25,7 @@ Ablation experiments were performed to understand uncertainty estimation as an i
 
 If you find this code useful in your research, please consider citing:
 
-TODO:
+E. N. Karthik, F. Cheriet and C. Laporte, "Uncertainty Estimation in Unsupervised MR-CT Synthesis of Scoliotic Spines," in IEEE Open Journal of Engineering in Medicine and Biology, doi: 10.1109/OJEMB.2023.3262965.
+
 
 
